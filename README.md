@@ -24,7 +24,7 @@ The `ProductItem` class is used to define what data we’re interested in and ho
 
 ## Project Structure
 <pre>
-scrapy_product/ 
+scrape_product/ 
 ├── __init__.py
 ├── items.py
 ├── middlewares.py
@@ -38,9 +38,9 @@ scrapy_product/
 └── README.md 
 </pre>
 
-- **scrapy_product/**: The main project directory containing settings, items, and spiders.
-- **scrapy_product/items.py**: Defines the items you want to scrape.
-- **scrapy_product/spiders/**: Contains your spider files.
+- **scrape_product/**: The main project directory containing settings, items, and spiders.
+- **scrape_product/items.py**: Defines the items you want to scrape.
+- **scrape_product/spiders/**: Contains your spider files.
 - **scrapy.cfg**: Scrapy project configuration file.
 - **requirements.txt**: Lists project dependencies.
 
@@ -50,9 +50,11 @@ scrapy_product/
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/scrapy_project.git
-   cd scrapy_project
-
+   git clone https://github.com/sohailcs140/scrape_product.git
+   ```
+   ```
+   cd scrape_product
+   ```
 
 2. **Create a Virtual Environment**
    ```
