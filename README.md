@@ -77,4 +77,6 @@ scrapy_product/
 
 ### Run the Spider
 
-scrapy crawl product_spider
+```
+scrapy crawl product_spider 
+```
