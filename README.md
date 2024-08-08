@@ -55,9 +55,18 @@ scrapy_product/
 
 
 2. **Create a Virtual Environment**
+   ```
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+   ```
 
+    **Activate Virtual Environment**
+    ```
+    source venv/bin/activate
+    ```
+    On Windows use
+    ```
+    venv\Scripts\activate
+    ```
 
 3. **Install Dependencies**
     ``` 
