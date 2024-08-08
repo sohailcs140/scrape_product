@@ -23,7 +23,7 @@ The `ProductItem` class is used to define what data we’re interested in and ho
 
 
 ## Project Structure
-'''
+
 scrapy_product/ <br>
 │<br>
    ├── __init__.py<br>
@@ -38,7 +38,7 @@ scrapy_product/ <br>
 ├── scrapy.cfg<br>
 ├── requirements.txt<br>
 └── README.md<br>
-'''
+
 - **scrapy_product/**: The main project directory containing settings, items, and spiders.
 - **scrapy_product/items.py**: Defines the items you want to scrape.
 - **scrapy_product/spiders/**: Contains your spider files.
@@ -57,11 +57,11 @@ scrapy_product/ <br>
 
 2. **Create a Virtual Environment**
     python -m venv venv
-    source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+    source venv/bin/activate  # On Windows use ``` venv\Scripts\activate
 
 
 3. **Install Dependencies**
-    pip install -r requirements.txt
+    ``` pip install -r requirements.txt
 
 ## Usage
 
