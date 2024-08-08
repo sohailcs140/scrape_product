@@ -26,14 +26,14 @@ The `ProductItem` class is used to define what data we’re interested in and ho
 '''
 scrapy_product/ <br>
 │<br>
-├── __init__.py<br>
-├── items.py<br>
-├── middlewares.py<br>
-├── pipelines.py<br>
-├── settings.py<br>
+   ├── __init__.py<br>
+   ├── items.py<br>
+   ├── middlewares.py<br>
+   ├── pipelines.py<br>
+   ├── settings.py<br>
 └── spiders/<br>
-    ├── __init__.py<br>
-    └── product_spider.py<br>
+       ├── __init__.py<br>
+       └── product_spider.py<br>
 │<br>
 ├── scrapy.cfg<br>
 ├── requirements.txt<br>
