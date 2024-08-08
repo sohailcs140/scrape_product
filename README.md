@@ -23,7 +23,7 @@ The `ProductItem` class is used to define what data we’re interested in and ho
 
 
 ## Project Structure
-
+'''
 scrapy_product/
 │
 ├── __init__.py
@@ -38,7 +38,7 @@ scrapy_product/
 ├── scrapy.cfg
 ├── requirements.txt
 └── README.md
-
+'''
 - **scrapy_product/**: The main project directory containing settings, items, and spiders.
 - **scrapy_product/items.py**: Defines the items you want to scrape.
 - **scrapy_product/spiders/**: Contains your spider files.
