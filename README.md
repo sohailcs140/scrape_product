@@ -24,7 +24,8 @@ The `ProductItem` class is used to define what data we’re interested in and ho
 
 ## Project Structure
 
-\```plaintext
+\```
+
 scrapy_product/
 ├── __init__.py
 ├── items.py
