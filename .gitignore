@@ -1,0 +1,41 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+ENV/
+env/
+*.egg-info/
+
+# Scrapy settings
+.scrapy/
+*.log
+
+# IDEs and editors
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Data files
+output.json
+*.csv
+*.xml
+
+# Miscellaneous
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Local configuration files
+local_settings.py
